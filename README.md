@@ -1,4 +1,6 @@
-#Random Max cloning commmad 2022 update enjon🔥💙
+#Random Max cloning commmad 2022 update enjon💙🌸
+
+
 .pkg update
 
 .pkg upgrade
