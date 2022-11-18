@@ -15,7 +15,7 @@
 
 .rm -rf BMC
 
-.git clone https:🌸//github.com/Sakib-404cyber/BMC
+.git clone https:🔥//github.com/Sakib-404cyber/BMC
 
 .cd BMC
 
