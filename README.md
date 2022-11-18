@@ -1,22 +1,22 @@
-# BMC
-pkg update
+# BMC Random Max cloning commmad 2022 update enjoy my bd tools 🔥💙
+.pkg update
 
-pkg upgrade
+.pkg upgrade
 
-pkg install git
+.pkg install git
 
-pkg install python
+.pkg install python
 
-pip install rich
+.pip install rich
 
-pip install bs4
+.pip install bs4
 
-rm -rf BMC
+.rm -rf BMC
 
-git clone https://github.com/Sakib-404cyber/BMC
+.git clone https:🌸//github.com/Sakib-404cyber/BMC
 
-cd BMC
+.cd BMC
 
-python Random.py
+.python Random💜.py
 
-Thank You For Your Support ❤️😘
+Thank You For Your Support💥💚
