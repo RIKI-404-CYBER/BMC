@@ -1,4 +1,4 @@
-# BMC Random Max cloning commmad 2022 update enjoy my bd tools 🔥💙
+#Random Max cloning commmad 2022 update enjon🔥💙
 .pkg update
 
 .pkg upgrade
